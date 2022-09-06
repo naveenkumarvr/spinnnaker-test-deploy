@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: spinnnaker-test-deploy
+  annotations:
+    github.com/project-slug: naveenkumarvr/spinnnaker-test-deploy
+    backstage.io/source-location: url:https://github.com/naveenkumarvr/spinnnaker-test-deploy
+  links:
+    - title: Repository_Link
+      url: https://github.com/naveenkumarvr/spinnnaker-test-deploy
+spec:
+  type: service
+  lifecycle: production
+  owner: guests
