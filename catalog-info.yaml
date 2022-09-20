@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: naveenkumarvr/spinnnaker-test-deploy
     backstage.io/source-location: url:https://github.com/naveenkumarvr/spinnnaker-test-deploy
+    backstage.io/techdocs-ref: dir:.
   links:
     - title: Repository_Link
       url: https://github.com/naveenkumarvr/spinnnaker-test-deploy
